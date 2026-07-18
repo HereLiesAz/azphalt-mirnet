@@ -1,0 +1,28 @@
+{
+  "azphalt": "0.1",
+  "id": "com.hereliesaz.azphalt.mirnet",
+  "name": "MIRNet",
+  "version": "1.0.0",
+  "kind": "asset",
+  "license": "MIT",
+  "compat": ">=0.1",
+  "description": "Multi-scale image restoration for low-light enhancement and denoising. Uses: low-light / night footage recovery; denoising; detail & contrast enhancement.",
+  "author": "azphalt",
+  "homepage": "https://github.com/HereLiesAz/azphalt-mirnet",
+  "assets": [
+    {
+      "type": "onnx",
+      "path": "",
+      "role": "lowlight",
+      "remoteUrl": "https://github.com/HereLiesAz/azphalt-mirnet/releases/latest/download/mirnet.onnx",
+      "modelLicense": "MIT (MIRNet)",
+      "tags": [
+        "low-light",
+        "denoise",
+        "restoration",
+        "image"
+      ]
+    }
+  ],
+  "files": {}
+}
