@@ -4,7 +4,7 @@
   "name": "MIRNet",
   "version": "1.0.0",
   "kind": "asset",
-  "license": "MIT",
+  "license": "LicenseRef-Upstream-Unstated",
   "compat": ">=0.1",
   "description": "Multi-scale image restoration for low-light enhancement and denoising. Uses: low-light / night footage recovery; denoising; detail & contrast enhancement.",
   "author": "HereLiesAz",
