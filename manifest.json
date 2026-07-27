@@ -7,7 +7,7 @@
   "license": "MIT",
   "compat": ">=0.1",
   "description": "Multi-scale image restoration for low-light enhancement and denoising. Uses: low-light / night footage recovery; denoising; detail & contrast enhancement.",
-  "author": "azphalt",
+  "author": "HereLiesAz",
   "homepage": "https://github.com/HereLiesAz/azphalt-mirnet",
   "assets": [
     {
@@ -23,6 +23,5 @@
         "image"
       ]
     }
-  ],
-  "files": {}
+  ]
 }
